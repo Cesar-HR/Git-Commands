@@ -24,6 +24,11 @@ Follow the next steps: <br>
   <li><b>git clone (url_git_repository)</b></li>
 </ul>
 
+#### How to login in git bash? 🔒
+<ul type="square">
+  <li><b>gh auth login</b></li>
+</ul>
+
 #### More commands ... 🖥️
 <ul type="square">
   <li><b>git log</b> => shows a list of all the commits made to a repository</li>
